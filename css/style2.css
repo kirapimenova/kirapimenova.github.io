@@ -1,26 +1,22 @@
 @font-face {
-    font-family: montserrat-extrabold;
+    font-family: 'montserrat-extrabold';
     src: url(Montserrat/static/Montserrat-ExtraBold.ttf);
 }
 @font-face {
-    font-family: montserrat-bold;
-    src: url(../Montserrat/static/Montserrat-Bold.ttf);
+    font-family: 'montserrat-bold';
+    src: url(Montserrat/static/Montserrat-Bold.ttf);
 }
 @font-face {
-    font-family: montserrat-medium;
+    font-family: 'montserrat-medium';
     src: url(Montserrat/static/Montserrat-Medium.ttf);
 }
 @font-face {
-    font-family: montserrat-light;
+    font-family: 'montserrat-light';
     src: url(Montserrat/static/Montserrat-Light.ttf);
 }
 @font-face {
-    font-family: inter;
+    font-family: 'inter';
     src: url(Inter/static/Inter_18pt-Regular.ttf);
-}
-
-* {
-    font-family: montserrat-extrabold, Arial, sans-serif !important;
 }
 
 body {

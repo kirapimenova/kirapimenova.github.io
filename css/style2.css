@@ -4,7 +4,7 @@
 }
 @font-face {
     font-family: montserrat-bold;
-    src: url(Montserrat/static/Montserrat-Bold.ttf);
+    src: url(../Montserrat/static/Montserrat-Bold.ttf);
 }
 @font-face {
     font-family: montserrat-medium;

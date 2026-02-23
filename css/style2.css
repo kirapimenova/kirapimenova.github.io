@@ -20,6 +20,10 @@
 }
 
 body {
+    font-family: 'montserrat-extrabold', Arial, sans-serif !important;
+}
+
+body {
     overflow-x: hidden;
     background: #ffffff;
 }

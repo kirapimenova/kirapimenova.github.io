@@ -734,7 +734,7 @@ body {
     background-color: #490500;
 }
 
-@media (max-width: 390px) {
+@media (max-width: 500px) {
     
     body {
         overflow-x: hidden;
